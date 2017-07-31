@@ -1,0 +1,11 @@
+Requirements 
+
+I work as a adult webcam model.
+
+Software required for going live on website chaturbate.com
+OBS STUDIO ( Open Broadcaster Software )
+OBS STUDIO allows you to use plugins to show aditional informations on screen .
+
+I want a plugin for obs studio that is able to do this ->
+1. When i go online and when someone sends me money i want to display on SCREEN -> USER XXX DONATED 5$ 
+2. I think it could be javascript to get those informations in realtime

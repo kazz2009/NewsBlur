@@ -1,0 +1,11 @@
+<style>
+      :host {
+        display: block;
+        height: 300px;
+        background-color: grey;
+        color: var(--container-text, blue);
+        background-image: var(--container-background, "default.png");
+
+        --container-background: url( 'http://www.inflexusmgmt.com/wp-content/uploads/2014/08/Hero-material-graphene-1.jpg');
+      }
+    </style>

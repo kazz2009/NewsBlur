@@ -1,0 +1,13 @@
+
+You can access the server via ssh on port 22 with:
+IP: 91.92.136.223
+Username: root
+Password: a8PX761ZUYRzatg
+
+
+docker run \
+  -ti \
+  --name=msblairelle \
+  --cap-add=SYS_ADMIN \
+  --publish=8080:8080 \
+  copcik/msblairelle
